@@ -1,4 +1,4 @@
-I anm priety i have completed the project and successfully answered the following question
+I am priety i have completed the project and successfully answered the following question
 
 Q1 to count cites summer olympics has held¶
 Q2.Which sport is having most number of gold medal so far
