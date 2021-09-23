@@ -6,7 +6,7 @@ Q3.Which sport is having most no of medal so far
 Q4 which playesr has won the most no gold
 Q5.which player has won most no of gold medals
 Q6 In which year india won first gold medal in summer olympics¶
-Q7 WHICH EVENT IS MOST POPULAR IN TERMS ON NO OF PLAYERS
+Q7 Which event is most popular in terms of players
 Q8Which sport is having most female gold medal¶
 
 
